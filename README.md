@@ -11,4 +11,5 @@ We used 5 books in the Game of Thrones series to create a set of word vectors. W
 run pip install -r pip-requirements.txt to install the necessary dependencies.
 
 ##Usage
+
 The Throne2vec.ipynb has the code, so you can see what the plots look like.
